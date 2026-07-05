@@ -1,0 +1,5 @@
+.env*
+.npm-cache/
+.venv/
+generated-audiobooks/
+__pycache__/
